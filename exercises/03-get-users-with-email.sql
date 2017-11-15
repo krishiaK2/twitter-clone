@@ -13,4 +13,4 @@
 --
 -- Write your query below:
 
-SELECT * FROM users WHERE password = '{{password}}' AND (username = '{{identifier}}' OR email = '{{identifier}}');
+SELECT * FROM users WHERE email = '{{email}}';
