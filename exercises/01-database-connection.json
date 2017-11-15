@@ -1,16 +1,16 @@
 {
   "development": {
-    "host": "",
-    "database": "",
-    "port": 0,
-    "user": "",
-    "password": ""
+    "host": "localhost",
+    "database": "development",
+    "port": 5432,
+    "user": "cmsc127user",
+    "password": "cmsc127"
   },
   "test": {
-    "host": "",
-    "database": "",
-    "port": 0,
-    "user": "",
-    "password": ""
+    "host": "localhost",
+    "database": "test",
+    "port": 5432,
+    "user": "cmsc127user",
+    "password": "cmsc127"
   }
 }
