@@ -6,3 +6,5 @@
 --     - email
 --
 -- Write your query below:
+
+SELECT * FROM follows where following = '0';
